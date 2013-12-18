@@ -1,0 +1,15 @@
+{
+    "name": "sigh/doctrinetest",
+    "authors": [
+        {
+            "name": "Cy Brown",
+            "email": "cy@cybrown.fr"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "2.4.1"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
